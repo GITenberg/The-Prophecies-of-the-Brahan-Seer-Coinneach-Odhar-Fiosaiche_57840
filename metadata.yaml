@@ -1,0 +1,30 @@
+_repo: The-Prophecies-of-the-Brahan-Seer-Coinneach-Odhar-Fiosaiche_57840
+_version: 0.0.1
+contributor:
+  annotator:
+    agent_name: Macgregor, Alexander
+    birthdate: 1806
+    deathdate: 1881
+    gutenberg_agent_id: '31691'
+    url: http://www.gutenberg.org/2009/agents/31691
+creator:
+  author:
+    agent_name: Mackenzie, Alexander
+    alias: Mackenzie, A. (Alexander)
+    birthdate: 1838
+    deathdate: 1898
+    gutenberg_agent_id: '1252'
+    url: http://www.gutenberg.org/2009/agents/1252
+description: ''
+gutenberg_issued: '2018-09-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '57840'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Prophecies of the Brahan Seer (Coinneach Odhar Fiosaiche)
+url: http://www.gutenberg.org/ebooks/57840
