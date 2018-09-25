@@ -1,5 +1,5 @@
 _repo: The-Prophecies-of-the-Brahan-Seer-Coinneach-Odhar-Fiosaiche_57840
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   annotator:
     agent_name: Macgregor, Alexander
@@ -7,6 +7,9 @@ contributor:
     deathdate: 1881
     gutenberg_agent_id: '31691'
     url: http://www.gutenberg.org/2009/agents/31691
+covers:
+- cover_type: archival
+  image_path: 57840-h/images/cover.jpg
 creator:
   author:
     agent_name: Mackenzie, Alexander
@@ -16,6 +19,8 @@ creator:
     gutenberg_agent_id: '1252'
     url: http://www.gutenberg.org/2009/agents/1252
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57840#The-Prophecies-of-the-Brahan-Seer-Coinneach-Odhar-Fiosaiche
 gutenberg_issued: '2018-09-03'
 gutenberg_type: Text
 identifiers:
